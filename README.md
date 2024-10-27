@@ -15,7 +15,6 @@ I am a **Computer Engineering student** passionate about **electronics, IoT, and
 ### 🌱 I’m currently learning:  
 - **Firebase**: Integrating it with **ReactJS** for dynamic web apps.  
 - **Oracle 19c**: Expanding my knowledge of database management systems.  
-- **German (B2 level)**: Preparing for the **Goethe exam** to achieve certification.  
 
 
 
