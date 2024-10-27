@@ -10,7 +10,9 @@ I am a **Computer Engineering student** passionate about **electronics, IoT, and
 - **🎧 ESP32 Media Player**: Uploading podcasts to ESP32 for on-the-go listening.  
 - **🔊 Light Stabilizer with Ultrasound**: Using sound waves to balance objects mid-air.  
 - **⚙️ IoT Car Controller**: A web-controlled vehicle with **ESP32 automation**.  
-- **💻 Morse Code Encryption System**: Translating button sequences into real-time messages.  
+- **💻 Morse Code Encryption System**: Translating button sequences into real-time messages.
+- **🌐 [VisPro](https://vispro.vercel.app)**: A visual and interactive simulation that explains the fundamentals of **Projectile Motion**. It demonstrates how physics concepts like initial velocity, launch angle, and gravity work together to influence the trajectory of an object. Whether you're a student learning about physics or simply someone fascinated by the science behind motion, this simulation makes learning fun and engaging!  
+ 
 
 ### 🌱 I’m currently learning:  
 - **Firebase**: Integrating it with **ReactJS** for dynamic web apps.  
