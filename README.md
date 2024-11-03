@@ -14,7 +14,7 @@ I am a **Computer Engineering student** passionate about **electronics, IoT, and
 - **🌐 [VisPro](https://vispro.vercel.app)**: A visual and interactive simulation that explains the fundamentals of **Projectile Motion**. It demonstrates how physics concepts like initial velocity, launch angle, and gravity work together to influence the trajectory of an object. Whether you're a student learning about physics or simply someone fascinated by the science behind motion, this simulation makes learning fun and engaging!  
  
 
-### 🌱 I’m currently learning:  
+### 🌱 I’m currently learning: 
 - **Firebase**: Integrating it with **ReactJS** for dynamic web apps.  
 - **Oracle 19c**: Expanding my knowledge of database management systems.  
 
