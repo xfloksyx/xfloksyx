@@ -26,8 +26,8 @@ I am a **Computer Engineering student** passionate about **electronics, IoT, and
 ---
 
 ### 📊 GitHub Stats:  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=xfloksyx&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xfloksyx&layout=compact&theme=tokyonight)  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=xfloksyx&show_icons=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xfloksyx)  
 
 ---
 
