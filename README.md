@@ -37,7 +37,7 @@ I am a **Computer Engineering student** passionate about **electronics, IoT, and
 ---
 
 ### 🛠️ Tech Stack:  
-![Tech Stack](https://skillicons.dev/icons?i=python,go,js,react,arduino,raspberrypi,bootstrap,html,css,github,firebase,oracle)  
+![Tech Stack](https://skillicons.dev/icons?i=cpp,c,java,python,go,js,react,arduino,raspberrypi,bootstrap,html,css,github,firebase,oracle)  
 
 ---
 ![Code Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
