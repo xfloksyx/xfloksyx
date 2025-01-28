@@ -1,92 +1,116 @@
-# Hi there, I'm [Your Name] 👋
+<div style="background: linear-gradient(135deg, #FFF6B7 0%, #FF9A8B 100%); padding: 20px; border-radius: 10px;">
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Code Animation" width="600" height="300"/>
+<div align="center" style="background: linear-gradient(135deg, #FF9A8B 0%, #FF6A88 55%, #FF99AC 100%); padding: 40px; border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.1);">
+  <img src="https://avatars.githubusercontent.com/u/108983134?v=4" alt="Marouane El Hizabri" width="200" height="200" style="border-radius: 50%; object-fit: cover; display: block; margin: 0 auto; border: 4px solid #FFF; box-shadow: 0 0 20px rgba(255,255,255,0.3);" />
+  
+  <h1 style="margin-top: 20px; background: linear-gradient(to right, #FFA07A, #FF6347); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5em; text-shadow: 2px 2px 4px rgba(0,0,0,0.1);">Hi, I'm Marouane El Hizabri (xfloksyx) 👋</h1>
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFA07A&center=true&vCenter=true&width=435&multiline=true&lines=Computer+Engineering+Student;IoT+and+Networking+Enthusiast;Innovative+Project+Creator)](https://git.io/typing-svg)
 </div>
+
+<p align="center" style="font-style: italic; color: #FFA07A; margin-top: 20px; font-size: 18px; font-weight: bold;">
+  "Make the future – one project at a time."
+</p>
+
+<div style="background: linear-gradient(135deg, #FFF6B7 0%, #F6416C 100%); padding: 20px; border-radius: 10px; margin-top: 30px;">
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Engineering student** passionate about **electronics, IoT, and networking**. My goal is to build innovative, practical projects that combine creativity with technical precision.
+<p align="center" style="color: #333; font-size: 16px; line-height: 1.6;">
+  I'm a passionate Computer Engineering student with a keen interest in IoT, networking, and innovative technology solutions. My goal is to bridge the gap between hardware and software, creating smart, efficient systems that make a real-world impact. Whether it's developing IoT devices, optimizing networks, or coding cutting-edge applications, I'm always eager to learn and push the boundaries of what's possible in tech.
+</p>
 
-> "Make the future – one project at a time."
+</div>
+
+<div style="background: linear-gradient(135deg, #F6416C 0%, #FFF6B7 100%); padding: 20px; border-radius: 10px; margin-top: 30px;">
 
 ## 🚀 Featured Projects
 
-1. **🎧 ESP32 Media Player**: Uploading podcasts to ESP32 for on-the-go listening.
-2. **🔊 Light Stabilizer with Ultrasound**: Using sound waves to balance objects mid-air.
-3. **⚙️ IoT Car Controller**: A web-controlled vehicle with ESP32 automation.
-4. **💻 Morse Code Encryption System**: Translating button sequences into real-time messages.
-5. **🌐 [VisPro](https://vispro.vercel.app)**: An interactive simulation explaining Projectile Motion fundamentals.
+<table align="center" style="background: rgba(255, 255, 255, 0.1); border-radius: 10px; margin-top: 10px;">
+  <tr>
+    <td align="center"><a href="#"><img src="https://img.icons8.com/color/48/000000/audio-wave--v1.png" width="30px" style="filter: sepia(100%) saturate(300%) brightness(70%) hue-rotate(350deg);"/><br /><sub><b>ESP32 Media Player</b></sub></a></td>
+    <td align="center"><a href="#"><img src="https://img.icons8.com/color/48/000000/light.png" width="30px" style="filter: sepia(100%) saturate(300%) brightness(70%) hue-rotate(350deg);"/><br /><sub><b>Light Stabilizer</b></sub></a></td>
+    <td align="center"><a href="#"><img src="https://img.icons8.com/color/48/000000/car.png" width="30px" style="filter: sepia(100%) saturate(300%) brightness(70%) hue-rotate(350deg);"/><br /><sub><b>IoT Car Controller</b></sub></a></td>
+    <td align="center"><a href="#"><img src="https://img.icons8.com/fluency/48/000000/code.png" width="30px" style="filter: sepia(100%) saturate(300%) brightness(70%) hue-rotate(350deg);"/><br /><sub><b>Morse Code System</b></sub></a></td>
+    <td align="center"><a href="https://vispro.vercel.app"><img src="https://img.icons8.com/color/48/000000/physics.png" width="30px" style="filter: sepia(100%) saturate(300%) brightness(70%) hue-rotate(350deg);"/><br /><sub><b>VisPro</b></sub></a></td>
+  </tr>
+</table>
+
+</div>
+
+<div style="background: linear-gradient(135deg, #FFF6B7 0%, #F6416C 100%); padding: 20px; border-radius: 10px; margin-top: 30px;">
 
 ## 🌱 Current Learning Focus
 
-- **Firebase**: Integrating it with ReactJS for dynamic web apps.
-- **Oracle 19c**: Expanding my knowledge of database management systems.
+<p align="center" style="margin-top: 10px;">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&color=FFA07A" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white&color=FFA07A" alt="Oracle"/>
+</p>
+
+</div>
+
+<div style="background: linear-gradient(135deg, #F6416C 0%, #FFF6B7 100%); padding: 20px; border-radius: 10px; margin-top: 30px;">
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Flex](https://img.shields.io/badge/-Flex-E4A126?style=flat-square&logo=adobe&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle)
+<p align="center" style="background: rgba(255, 255, 255, 0.1); border-radius: 10px; padding: 10px; margin-top: 10px;">
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,go,js,react,cs,arduino,raspberrypi,bootstrap,html,css,github,firebase,oracle&perline=8" style="filter: sepia(100%) saturate(300%) brightness(70%) hue-rotate(350deg);" />
+</p>
 
 </div>
+
+<div style="background: linear-gradient(135deg, #FFF6B7 0%, #F6416C 100%); padding: 20px; border-radius: 10px; margin-top: 30px;">
 
 ## 📊 Coding Analytics
 
-<div align="center">
-
-  <!-- Wakatime stats -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=xfloksyx&layout=compact&theme=radical" alt="Wakatime Stats" />
-  
-  <!-- GitHub Streak stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xfloksyx&theme=radical" alt="GitHub streak stats" />
-  
-  <!-- Coding activity graph -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=xfloksyx&theme=redical" alt="Coding Activity Graph" />
+<div align="center" style="margin-top: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=xfloksyx&show_icons=true&theme=radical&bg_color=FF9A8B,FF6A88,FF99AC&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFA07A" alt="GitHub Stats" />
+</div>
 
 </div>
 
+<div style="background: linear-gradient(135deg, #F6416C 0%, #FFF6B7 100%); padding: 20px; border-radius: 10px; margin-top: 30px;">
+
 ## 💡 Skills Highlight
 
-- **Embedded Systems Programming**: Proficient in C/C++ for microcontrollers
-- **Web Development**: Full-stack skills with React and Node.js
-- **IoT Solutions**: Experienced in connecting devices and data processing
-- **Database Management**: Working knowledge of SQL and NoSQL databases
-- **Version Control**: Git and GitHub for collaborative development
-- **Problem Solving**: Strong analytical and debugging skills
+<table align="center" style="background: rgba(255, 255, 255, 0.1); border-radius: 10px; margin-top: 10px;">
+  <tr>
+    <td align="center"><img src="https://img.icons8.com/color/48/000000/circuit.png" width="30px" style="filter: sepia(100%) saturate(300%) brightness(70%) hue-rotate(350deg);"/><br /><sub><b>Embedded Systems</b></sub></td>
+    <td align="center"><img src="https://img.icons8.com/color/48/000000/web.png" width="30px" style="filter: sepia(100%) saturate(300%) brightness(70%) hue-rotate(350deg);"/><br /><sub><b>Web Development</b></sub></td>
+    <td align="center"><img src="https://img.icons8.com/?size=100&id=X41e6V6gCeu2&format=png&color=000000" width="30px" style="filter: sepia(100%) saturate(300%) brightness(70%) hue-rotate(350deg);"/><br /><sub><b>IoT Solutions</b></sub></td>
+    <td align="center"><img src="https://img.icons8.com/color/48/000000/database.png" width="30px" style="filter: sepia(100%) saturate(300%) brightness(70%) hue-rotate(350deg);"/><br /><sub><b>Database Management</b></sub></td>
+    <td align="center"><img src="https://img.icons8.com/color/48/000000/git.png" width="30px" style="filter: sepia(100%) saturate(300%) brightness(70%) hue-rotate(350deg);"/><br /><sub><b>Version Control</b></sub></td>
+    <td align="center"><img src="https://img.icons8.com/fluency/48/000000/brain.png" width="30px" style="filter: sepia(100%) saturate(300%) brightness(70%) hue-rotate(350deg);"/><br /><sub><b>Problem Solving</b></sub></td>
+  </tr>
+</table>
+
+</div>
+
+<div style="background: linear-gradient(135deg, #FFF6B7 0%, #F6416C 100%); padding: 20px; border-radius: 10px; margin-top: 30px;">
 
 ## ⚡ Fun Fact
 
-I love combining physics concepts with coding to create **innovative mechatronics systems**!
+<p align="center" style="font-style: italic; color: #FFA07A; text-shadow: 1px 1px 2px rgba(0,0,0,0.1); font-size: 16px; margin-top: 10px;">
+  I love combining physics concepts with coding to create <strong>innovative mechatronics systems</strong>!
+</p>
+
+</div>
+
+<div style="background: linear-gradient(135deg, #F6416C 0%, #FFF6B7 100%); padding: 20px; border-radius: 10px; margin-top: 30px;">
 
 ## 📫 How to Reach Me
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marouaneelhizabri/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+<p align="center" style="margin-top: 10px;">
+  <a href="https://www.linkedin.com/in/marouaneelhizabri/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=FFA07A" alt="LinkedIn"/></a>
+</p>
 
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=xfloksyx&color=blueviolet" alt="Profile Views" />
+<div align="center" style="margin-top: 30px;">
+  <img src="https://komarev.com/ghpvc/?username=xfloksyx&color=FFA07A&style=for-the-badge" alt="Profile Views" />
+</div>
+
 </div>
 
