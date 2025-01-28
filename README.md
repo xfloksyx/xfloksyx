@@ -1,7 +1,7 @@
 <div style="background: linear-gradient(135deg, #FFF6B7 0%, #FF9A8B 100%); padding: 20px; border-radius: 10px;">
 
 <div align="center" style="background: linear-gradient(135deg, #FF9A8B 0%, #FF6A88 55%, #FF99AC 100%); padding: 40px; border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.1);">
-  <img src="https://avatars.githubusercontent.com/u/108983134?v=4" alt="Marouane El Hizabri" width="200" height="200" style="border-radius: 50%; object-fit: cover; display: block; margin: 0 auto; border: 4px solid #FFF; box-shadow: 0 0 20px rgba(255,255,255,0.3);" />
+  
   
   <h1 style="margin-top: 20px; background: linear-gradient(to right, #FFA07A, #FF6347); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5em; text-shadow: 2px 2px 4px rgba(0,0,0,0.1);">Hi, I'm Marouane El Hizabri (xfloksyx) 👋</h1>
 
